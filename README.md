@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-Jeux de plateforme en Phaser 3
+Jeux de plateforme en Phaser 3 ok
 
 ![Alt text](assets/screen1.png)
 ![Alt text](assets/screen2.png)
